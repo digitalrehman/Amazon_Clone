@@ -1052,7 +1052,9 @@
     .navbar {
         display: none;
     }
-
+     .slider-container{
+        top: 50px;
+    }
     .nav-item {
         display: flex;
         flex-wrap: wrap;
@@ -1183,5 +1185,8 @@
     .company-link .com-link {
         height: auto;
         width: 100px;
+    }
+     .slider-container{
+        top: 130px;
     }
 }
