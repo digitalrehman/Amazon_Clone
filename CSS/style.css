@@ -14,47 +14,17 @@
     --boldfonts: 'Gabarito', cursive;
     --heading: 'Roboto', sans-serif;
 }
-
+    
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 
 }
-
-/* body {
-    background-image: url(IMG/banner\ 1.jpg);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
-    object-fit: cover;
-    height: 80vh;
-    width: auto;
-    background-color: var(--bgcolor);
-    animation: sliders 30s linear infinite  ;
+body{
+    
+  background-color: var(--bgcolor);
 }
-@keyframes sliders{
-    0%{
-        background-image: url(IMG/banner\ 3.jpg);
-        
-    }
-    25%{
-        background-image: url(IMG/banner\ 4.jpg);
-        
-    }
-    50%{
-        background-image: url(IMG/banner\ 5.jpg);
-        
-    }
-    75%{
-        background-image: url(IMG/banner\ 6.jpg);
-        
-    }
-    100%{
-        background-image: url(IMG/banner\ 4.jpg);
-
-    }
-} */
 
 .slider-container {
     width: 100%;
